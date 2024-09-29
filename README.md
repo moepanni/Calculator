@@ -1,6 +1,6 @@
 # Calculator Application
 
-#### Video Demo: <(https://bit.ly/4gXSQIv)>
+#### [Video Demo](https://bit.ly/4gXSQIv)
 
 #### Description:
 This project is a simple calculator application built using Python's Tkinter library for the graphical user interface (GUI). It supports basic arithmetic operations such as addition, subtraction, multiplication, division, and exponentiation. The application includes functionalities like backspace and clear for user convenience.
