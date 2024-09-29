@@ -7,16 +7,16 @@ This project is a fully functional calculator application built using Python's T
 
 #### The project is structured into two main files:
 
-# project.py contains the logic for the calculator and defines the graphical components using Tkinter.
-# test_project.py serves as a testing suite using the pytest framework to verify that all functionalities work as expected.
+* project.py contains the logic for the calculator and defines the graphical components using Tkinter.
+* test_project.py serves as a testing suite using the pytest framework to verify that all functionalities work as expected.
 
 #### Features:
 
-# User-Friendly Interface: Designed with a clean and intuitive interface using Tkinter buttons for numbers and arithmetic operations.
-# Basic Arithmetic Operations: Supports operations like addition (+), subtraction (-), multiplication (*), division (/), and exponentiation (**).
-# Utility Functions: Backspace button to delete the last entered character, and clear button to reset the current calculation.
-# Error Handling: Provides user-friendly error messages when attempting to divide by zero or when entering invalid inputs (e.g., characters instead of numbers).
-# Automated Testing: A set of unit tests is included to ensure the correct operation of all calculator features.
+* User-Friendly Interface: Designed with a clean and intuitive interface using Tkinter buttons for numbers and arithmetic operations.
+* Basic Arithmetic Operations: Supports operations like addition (+), subtraction (-), multiplication (*), division (/), and exponentiation (**).
+* Utility Functions: Backspace button to delete the last entered character, and clear button to reset the current calculation.
+* Error Handling: Provides user-friendly error messages when attempting to divide by zero or when entering invalid inputs (e.g., characters instead of numbers).
+* Automated Testing: A set of unit tests is included to ensure the correct operation of all calculator features.
 
 ### Installation:
 1. **Clone the Repository:**
